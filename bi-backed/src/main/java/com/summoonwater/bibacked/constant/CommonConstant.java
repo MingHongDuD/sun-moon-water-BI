@@ -5,7 +5,7 @@ package com.summoonwater.bibacked.constant;
  *
  * @author summoonwater
  */
-public interface CommonConstant {
+public class CommonConstant {
 
     /**
      * 升序

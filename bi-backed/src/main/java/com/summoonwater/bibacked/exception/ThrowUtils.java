@@ -1,6 +1,6 @@
 package com.summoonwater.bibacked.exception;
 
-import com.yupi.yucongming.dev.common.ErrorCode;
+import com.summoonwater.bibacked.common.ErrorCode;
 
 /**
  * 抛异常工具类

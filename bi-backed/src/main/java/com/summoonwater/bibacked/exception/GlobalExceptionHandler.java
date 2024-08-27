@@ -1,8 +1,8 @@
 package com.summoonwater.bibacked.exception;
 
+import com.summoonwater.bibacked.common.BaseResponse;
+import com.summoonwater.bibacked.common.ErrorCode;
 import com.summoonwater.bibacked.common.ResultUtils;
-import com.yupi.yucongming.dev.common.BaseResponse;
-import com.yupi.yucongming.dev.common.ErrorCode;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
