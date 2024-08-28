@@ -1,8 +1,5 @@
 package com.summoonwater.bibacked.common;
 
-import com.yupi.yucongming.dev.common.BaseResponse;
-import com.yupi.yucongming.dev.common.ErrorCode;
-
 /**
  * 返回工具类
  *
